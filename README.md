@@ -1,7 +1,7 @@
 # Flutter Food Ordering App
 ![](assets/preview.png)
 
-A new Flutter project.
+A new Flutter Food Ordering App/project.
 
 ## Getting Started
 
